@@ -6,7 +6,7 @@ This Power BI dashboard analyzes OLA ride booking data and provides insights int
 
 ## Dashboard Preview
 
-Screenshots/Ola Dashboard.png
+![Dashboard](Screenshots/Ola%20dashboard.png)
 
 ---
 
