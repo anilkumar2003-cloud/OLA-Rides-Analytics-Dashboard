@@ -65,7 +65,7 @@ This Power BI dashboard analyzes OLA ride booking data and provides insights int
 **Anil Kumar**
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/anilkumar2003-cloud
 
 LinkedIn:
-https://linkedin.com/in/YOUR_PROFILE
+https://www.linkedin.com/in/anil-kumar-gowd-490641263/
